@@ -1,2 +1,2 @@
 # the print statement displays a message 
-print('Hello world')
+print('premium A5 beef wagyu $57.60')
